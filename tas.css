@@ -1,0 +1,129 @@
+a{
+	text-decoration: none;
+}
+#judul{
+	margin-top: -20px;
+	margin-left: -10px;
+	margin-right: -5px;
+}
+#menu1{
+	margin-left: -500px;
+	font-size: 25px;
+	                                                     
+}
+#menu2{
+	margin-left: -10px;
+	margin-top: -29px;
+	font-size: 25px;
+}
+.dropdown {
+	display: none;
+	margin-left: 10px;
+	margin-top: -29px;
+	font-size: 25px;
+}
+#menu2:hover .dropdown {
+	display: block;
+}
+#menu3{
+	margin-left: 550px;
+	margin-top: -112px;
+	font-size: 25px;
+}
+#menu4{
+	margin-left: 650px;
+	margin-top: -28px;
+	font-size: 25px;
+}
+#kontak{
+	width: 1360px;
+	height: 300px;
+	font-size: 40px;
+}
+#logo{
+	margin-top: 80px;
+}
+#order{
+	margin-left: 145px;
+	margin-top: 10px;
+}
+
+#atas {
+	font-family: blackadder itc;
+	margin-left: 600px;
+	font-size: 60px;
+	color: #000000;
+	margin-top: -180px;
+}
+#kolom {
+	margin-top: -450px;
+	margin-left: 690px;
+	font-family: Perpetua;
+	font-size: 25px;
+
+}
+#kolom2{
+	margin-top: -230px;
+	margin-left: 825px;
+	font-family: Perpetua;
+	font-size: 25px;
+
+}
+#kolom3{
+	margin-left: 90px;
+}
+#bar {
+	width: 20px;
+	height: 630px;
+	margin-top: -330px;
+	margin-left: 640px;
+	background-color: #f5c6aa;
+}
+#area {
+	margin-top: -390px;
+	margin-left: 500px;
+	margin-right: -100px;
+}
+#animasi img:hover {
+	box-shadow: 0 0 9px black;
+	transform: scale(1.5);
+	cursor: pointer;
+}
+#animasi2 img:hover {
+	box-shadow: 0 0 4px black;
+	transform: scale(0.5);
+	cursor: pointer;
+	}
+#namatas {
+	font-family: Papyrus;
+	font-size: 30px;
+	color: grey;
+	margin-top: -50px;
+	margin-left: 155px;
+	margin-right: 800px;
+}
+#namatas2{
+	font-family: Papyrus;
+	font-size: 30px;
+	color: grey;
+	margin-top: -30px;
+	margin-left: 105px;
+	margin-right: 800px;
+}
+#headerPengiriman {
+	width: 700px;
+	height: 100px;
+	margin-left: 350px;
+	margin-top: 300px;
+	background-color: yellow;
+}
+#Pengiriman {
+	font-family: Papyrus;
+	font-size: 40px;
+	margin-top: -145px;
+	margin-left:530px;
+	color: black;
+}
+#about{
+	margin-top: -90px;
+}
